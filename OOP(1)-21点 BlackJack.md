@@ -6,7 +6,7 @@
 
 玩家Player可以选择给自己发两张牌或者更多。庄家Dealer同样抽两张牌，一张是盖牌。玩家比庄家的牌大，玩家胜利。但是如果超过21点，自动判负。双方手牌同样大小则是平局。Ace可以自己选择为1分或11分。
 
-![ood-1](/Users/aoli/Desktop/自媒体/md/OOD1/ood-1.png)
+![ood-1](https://github.com/WhosthatAoli/OOP--/blob/main/images/blackjack/ood-1.png)
 
 ## 游戏条件
 
