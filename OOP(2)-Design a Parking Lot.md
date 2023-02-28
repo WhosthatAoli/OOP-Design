@@ -1,6 +1,6 @@
 # OOP面向对象编程（二）-停车场设计 Design a parking lot
 
-![OOP(2)-Parking Lot](/Users/aoli/Desktop/自媒体/md/OOP2-Parking Lot/OOP(2)-Parking Lot.png)
+![OOP(2)-Parking Lot](https://github.com/WhosthatAoli/OOP-Design/blob/main/images/Parking%20Lot/OOP(2)-Parking%20Lot.png)
 
 ## 设计背景
 
