@@ -1,6 +1,6 @@
 # Design a Bank-设计银行系统
 
-![bank](/Users/aoli/Desktop/自媒体/md/OOP3-Bank/bank.png)
+![bank](https://github.com/WhosthatAoli/OOP-Design/blob/main/images/Bank/bank.png)
 
 ## 设计背景
 
