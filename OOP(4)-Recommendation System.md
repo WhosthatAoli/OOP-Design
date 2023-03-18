@@ -1,6 +1,6 @@
 # 设计一个电影推荐系统
 
-![Movie recommendation system](/Users/aoli/Desktop/自媒体/md/OOP4-movie recommendation system/Movie recommendation system.png)
+![Movie recommendation system](https://github.com/WhosthatAoli/OOP-Design/blob/main/images/movie-recommendation/Movie%20recommendation%20system.png)
 
 ## 设计背景
 
